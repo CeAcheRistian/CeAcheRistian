@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **deployment in Heroku**
+- 🌱 I’m currently learning **deployment to Remote Server**
 
 - 👯 I’m looking to collaborate on **related projects**
 
